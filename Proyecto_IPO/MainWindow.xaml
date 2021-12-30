@@ -1,0 +1,34 @@
+﻿<Window x:Class="Proyecto_IPO.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto_IPO"
+        mc:Ignorable="d"
+        Title="PROTECTORA MAVID" Height="450" Width="800"
+        Icon="pack://siteoforigin:,,,/Resources/dog-track.png">
+    <Grid>
+        <Grid>
+            <Rectangle x:Name="fondoVentana" HorizontalAlignment="Left" Height="448" Margin="-22,-25,-1,-4" VerticalAlignment="Top" Width="815" Stroke="Black" RenderTransformOrigin="0.51,0.584">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="pack://siteoforigin:,,,/Resources/fondoVentana2.jpg"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle x:Name="fondoLogin" Height="260" Margin="246,0,245,65" Stroke="Black" VerticalAlignment="Bottom" Fill="#FF673535"/>
+            <Ellipse HorizontalAlignment="Left" Height="88" Margin="357,41,0,0" Stroke="Black" VerticalAlignment="Top" Width="88">
+                <Ellipse.Fill>
+                    <ImageBrush ImageSource="pack://siteoforigin:,,,/Resources/perritoSilouhette.jpg"/>
+                </Ellipse.Fill>
+            </Ellipse>
+            <Button x:Name="btnLogin" Content="Iniciar sesión" HorizontalAlignment="Left" Margin="357,300,0,0" VerticalAlignment="Top" Width="88" Height="22" BorderBrush="#FF090909" Foreground="White" Background="#FFAC2323" Click="btnLogin_Click" TabIndex="3"/>
+            <TextBox x:Name="txtUsuario" HorizontalAlignment="Left" Height="19" Margin="280,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="228" TabIndex="1"/>
+            <PasswordBox x:Name="passContrasena" HorizontalAlignment="Left" Height="19" Margin="280,249,0,0" VerticalAlignment="Top" Width="228" TabIndex="2"/>
+            <Label x:Name="lblTituloLogin" Content="Iniciar sesión" HorizontalAlignment="Left" Margin="335,129,0,252" FontWeight="Bold" FontSize="20" Foreground="#FFE4E4E4"/>
+            <Label x:Name="lblUsuario" Content="Usuario" HorizontalAlignment="Left" Margin="280,169,0,0" VerticalAlignment="Top" Foreground="White"/>
+            <Label x:Name="lblContraseña" Content="Contraseña" HorizontalAlignment="Left" Margin="280,223,0,0" VerticalAlignment="Top" Foreground="White"/>
+            <Label x:Name="lblRecordarContraseña" Content="¿Olvidó su contraseña?" HorizontalAlignment="Left" Margin="399,227,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="White" FontStyle="Italic" FontSize="10" FontFamily="Italic"/>
+            <Label x:Name="lblEstado" Content="Estado de la aplicación" HorizontalAlignment="Center" Height="34" Margin="0,389,0,0" VerticalAlignment="Top" Width="793" Background="White" Foreground="Black" Opacity="0.7" FontWeight="Bold" HorizontalContentAlignment="Center"/>
+
+        </Grid>
+    </Grid>
+</Window>

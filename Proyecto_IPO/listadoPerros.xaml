@@ -1,0 +1,70 @@
+﻿<Window x:Class="Proyecto_IPO.listadoPerros"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto_IPO"
+        mc:Ignorable="d"
+        Title="Listado Perros" Height="553" Width="950" Background="#FF5E2D42">
+  <Window.Resources>
+    <Style x:Key="_ListBoxItemStyle" TargetType="ListBoxItem">
+      <Setter Property="Template">
+        <Setter.Value>
+          <ControlTemplate TargetType="ListBoxItem">
+            <Border Name="_Border"
+                                Padding="2"
+                                SnapsToDevicePixels="true">
+              <ContentPresenter />
+            </Border>
+            <ControlTemplate.Triggers>
+              <Trigger Property="IsSelected" Value="true">
+                <Setter TargetName="_Border" Property="Background" Value="White"/>
+                <Setter Property="Foreground" Value="Black"/>
+              </Trigger>
+            </ControlTemplate.Triggers>
+          </ControlTemplate>
+        </Setter.Value>
+      </Setter>
+    </Style>
+  </Window.Resources>
+  <Grid x:Name="Listado_Perros" Margin="0,0,20,467">
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="131*"/>
+      <ColumnDefinition Width="749*"/>
+    </Grid.ColumnDefinitions>
+    <ToolBar x:Name="tbBarraHerramientas" ToolBarTray.IsLocked="True"
+            Grid.Row="0" Grid.ColumnSpan="2"
+                Background="#FF5E2D42" Margin="15,10,-66,-10">
+      <Button x:Name="btnAniadir" ToolTip="Añadir perro a la lista">
+        <Image Source="Resources/dog_add.png" Cursor="Hand"/>
+      </Button>
+      <Button x:Name="btnEliminar" ToolTip="Quitar perro de la lista">
+        <Image Source="Resources/dog_delete.png" Cursor="Hand"/>
+      </Button>
+      <Button x:Name="btnEditar" ToolTip="Editar perro">
+        <Image Source="Resources/dog_edit.png" Cursor="Hand"/>
+      </Button>
+      <Label Content="PROTECTORA MAVID" Foreground="White" Margin="125,-12,0,0" Width="370" Height="65" RenderTransformOrigin="0.922,0.318" FontSize="36" FontWeight="Bold"/>
+      <Image Height="59" Width="44" Source="/LogoMAVID_Small.png"/>
+    </ToolBar>
+
+    <ListBox x:Name="lstPerros" Margin="15,62,-1,-451" Background="#FF5E2D42" SelectedIndex="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled" Grid.ColumnSpan="2" BorderThickness="0" FontSize="36" Foreground="White" ItemContainerStyle="{DynamicResource _ListBoxItemStyle}">
+      <ListBox.ItemsPanel>
+        <ItemsPanelTemplate>
+          <WrapPanel Orientation="Horizontal"></WrapPanel>
+        </ItemsPanelTemplate>
+      </ListBox.ItemsPanel>
+      <ListBox.ItemTemplate>
+        <DataTemplate>
+          <StackPanel Orientation="Vertical">
+            <Image Width="280" Height="260"
+                            Source="{Binding Image}"></Image>
+            <TextBlock VerticalAlignment="Center"
+                            Margin="10,0,0,0"
+                            Text="{Binding Nombre}"></TextBlock>
+          </StackPanel>
+        </DataTemplate>
+      </ListBox.ItemTemplate>
+    </ListBox>
+  </Grid>
+</Window>

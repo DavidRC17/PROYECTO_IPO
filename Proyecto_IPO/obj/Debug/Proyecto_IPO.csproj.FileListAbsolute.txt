@@ -1,0 +1,35 @@
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\bin\Debug\Proyecto_IPO.exe.config
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\bin\Debug\Proyecto_IPO.exe
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\bin\Debug\Proyecto_IPO.pdb
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\obj\Debug\Proyecto_IPO.csprojAssemblyReference.cache
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\obj\Debug\MainWindow.g.cs
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\obj\Debug\App.g.cs
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\obj\Debug\Proyecto_IPO_MarkupCompile.cache
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\obj\Debug\Proyecto_IPO_MarkupCompile.lref
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\obj\Debug\MainWindow.baml
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\obj\Debug\Proyecto_IPO.g.resources
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\obj\Debug\Proyecto_IPO.Properties.Resources.resources
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\obj\Debug\Proyecto_IPO.csproj.GenerateResource.cache
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\obj\Debug\Proyecto_IPO.csproj.CoreCompileInputs.cache
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\obj\Debug\Proyecto_IPO.exe
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\obj\Debug\Proyecto_IPO.pdb
+C:\Users\Mario Puebla Ortiz\Desktop\CLASES DE LA UNIVERSIDAD\1º Cuatrimestre\IPO I\Laboratorio\Proyecto\Proyecto_IPO\obj\Debug\Proyecto_IPO.Resource1.resources
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\Proyecto_IPO.csproj.AssemblyReference.cache
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\App.g.cs
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\Proyecto_IPO_MarkupCompile.cache
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\Proyecto_IPO_MarkupCompile.lref
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\Proyecto_IPO.exe
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\Proyecto_IPO.pdb
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\bin\Debug\Proyecto_IPO.exe.config
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\bin\Debug\Proyecto_IPO.exe
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\bin\Debug\Proyecto_IPO.pdb
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\listadoPerros.g.cs
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\listadoPerros.baml
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\Proyecto_IPO.g.resources
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\Proyecto_IPO.Properties.Resources.resources
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\Proyecto_IPO.Resource1.resources
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\Proyecto_IPO.csproj.GenerateResource.cache
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\Proyecto_IPO.csproj.CoreCompileInputs.cache
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\MainWindow.g.cs
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\MainWindow.baml
+D:\Universidad\PROYECTO IPO\Proyecto_IPO\obj\Debug\Proyecto_IPO.csproj.SuggestedBindingRedirects.cache
